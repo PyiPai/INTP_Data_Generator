@@ -42,14 +42,12 @@ Every suspect case is highlighted in the data generated. The following are suspe
 #### Case 6 - potential data exfiltration
 * Unusually large amount of data upload/download 
 * Marked as suspect case '6' in proxy logs
+* 
+![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/04b4090a-1c1a-48e1-b333-fff7a0477767)
 
-![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/3a41a83b-d01b-46fd-b302-0e06a13c4940)
+![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/7f73ced3-1c5a-4132-ad9d-6e4119572d63)
 
-![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/e379f5b3-4b19-4f4d-9987-9a29e6e6a7af)
+![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/bf3ad28d-ebf8-4ae2-862b-8b8c9554cdcc)
 
-![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/7a3954e6-18c1-44d9-9cf1-81d60b8596ad)
-
-![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/8fc060f7-8b7e-4326-a32d-2c842d692e37)
-
-
+![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/dffa4642-f7e5-4216-8102-1707e81ec0c8)
 
