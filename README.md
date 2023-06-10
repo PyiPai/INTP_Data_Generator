@@ -6,6 +6,7 @@ Download SQLite Browser https://sqlitebrowser.org/dl/ (or any other DB mgmt. stu
 #### How to run
 
 ```python
+pip install sqlalchemy names
 python main.py
 ```
 
