@@ -38,6 +38,13 @@ Every suspect case is highlighted in the data generated. The following are suspe
 * Unusually large amount of data upload/download 
 * Marked as suspect case '6' in proxy logs
 
+![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/3a41a83b-d01b-46fd-b302-0e06a13c4940)
+
+![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/e379f5b3-4b19-4f4d-9987-9a29e6e6a7af)
+
+![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/7a3954e6-18c1-44d9-9cf1-81d60b8596ad)
+
+![image](https://github.com/PyiPai/INTP_Data_Generator/assets/14193476/8fc060f7-8b7e-4326-a32d-2c842d692e37)
 
 
 
