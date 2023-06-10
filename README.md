@@ -1,5 +1,7 @@
 # Insider Threat Project Data Generator
 This is to generate simulated logs for insider threat project - school project
+The script will output the logs into main.db 
+Download SQLite Browser https://sqlitebrowser.org/dl/ (or any other DB mgmt. studio to view the data).
 
 #### How to run
 
