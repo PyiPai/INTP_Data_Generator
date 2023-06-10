@@ -1,11 +1,15 @@
 # Insider Threat Project Data Generator
 This is to generate simulated logs for insider threat project - school project
-The script will output the logs into main.db 
-Download SQLite Browser https://sqlitebrowser.org/dl/ (or any other DB mgmt. studio to view the data).
+
+The script will output the logs into `main.db`. Download SQLite Browser https://sqlitebrowser.org/dl/ (or any other DB mgmt. studio to view the data).
 
 #### How to run
 
 ```python
+#Modify the parameters in main.py as required. 
+#NUM_OF_EMPLOYEES = 1600
+#START_DATE = date(2023, 1, 1)
+#END_DATE = date(2023, 1, 31)
 pip install sqlalchemy names
 python main.py
 ```
